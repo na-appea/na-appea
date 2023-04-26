@@ -3,8 +3,7 @@
 - 🖥️ I use daily: .css, .html, .js
 - 🔭 I’m currently working on building my project archive
 - 🌱 I’m currently learning .js, react
-- 📫 How to reach me: nanaappea@gmail.com
-
+- 📫 How to reach me: https://www.linkedin.com/in/nanaappea/
 <!--
 **na-appea/na-appea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
