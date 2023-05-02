@@ -1,6 +1,6 @@
 ### Welcome to my Github Profile! 👋
 
-- 🖥️ I use daily: .css, .html, .js
+- 🖥️ I use daily: .css, .html, .js, bootstrap
 - 🔭 I’m currently working on building my project archive
 - 🌱 I’m currently learning .js, react
 - 📫 How to reach me: https://www.linkedin.com/in/nanaappea/
